@@ -1,4 +1,4 @@
-[![KrrishJaat](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://t.me/JaatKrrish)
+[![KrrishJaat](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://t.me/KrrishJaat)
 <h1 align="center">Hi 👋, I'm Krrish Jaat</h1>
 <h3 align="center">A passionate developer from India</h3>
 <a href="https://t.me/KrrishJaat" target="_blank">
