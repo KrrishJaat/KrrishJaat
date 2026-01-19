@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krrishjaat&label=Profile%20views&color=0e75b6&style=flat" alt="krrishjaat" /> </p>
 
-- 🔭 I’m currently working on [Port Roms {CovalentOS,DelightOS}](https://t.me/CovalentOSChat)
+- 🔭 I’m currently working on [Port Roms {ReCoreUI}](https://t.me/ReCoreUI)
 
 - 🌱 I’m currently learning **Python**
 
