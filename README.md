@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krrishjaat&label=Profile%20views&color=0e75b6&style=flat" alt="krrishjaat" /> </p>
 
-- 🔭 I’m currently working on [Port Roms {ReCoreUI}](https://t.me/ReCoreUI)
+- 🔭 I’m currently working on [Port Roms {ReCoreUI}](https://github.com/KrrishJaat/ReCoreUI)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python/C/**
 
 - 💬 Ask me about **Samsung Port Roms & Devices**
 
